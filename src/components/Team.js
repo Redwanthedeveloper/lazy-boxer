@@ -20,7 +20,11 @@ const Team = () => {
             data-aos="fade-up"
             data-aos-duration="800"
           >
-            <h1 className="font-extrabold text-2xl text-center pb-6 lg:pb-12 text-secondary lg:text-center lg:text-3xl uppercase ">
+            <h1
+              className="font-extrabold text-2xl text-center pb-6 lg:pb-12 text-secondary lg:text-center lg:text-3xl uppercase "
+              data-aos="fade-up"
+              data-aos-duration="1000"
+            >
               The lazy boxer team
             </h1>
             <div className="team__wrapper grid grid-cols-1 gap-12 md:grid-cols-4 md:gap-8">

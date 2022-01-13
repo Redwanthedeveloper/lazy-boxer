@@ -9,7 +9,11 @@ const Faq = () => {
         id="faq"
       >
         <div className="container mx-auto">
-          <h2 className="text-primary sm:text-center text-2xl sm:text-4xl tracking-wide leading-normal font-bold mb-6 sm:mb-10 uppercase text-secondary py-8">
+          <h2
+            className="text-primary sm:text-center text-2xl sm:text-4xl tracking-wide leading-normal font-bold mb-6 sm:mb-10 uppercase text-secondary py-8"
+            data-aos="fade-up"
+            data-aos-duration="1000"
+          >
             Faq
           </h2>
           <div className="px-4 pt-4 sm:pt-8 font-body">

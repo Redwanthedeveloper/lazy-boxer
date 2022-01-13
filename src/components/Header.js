@@ -44,7 +44,7 @@ const Header = () => {
                     </li>
 
                     <li className="hover:text-secondary flex  items-center gap-2">
-                      <a href="#gallery">Gellery</a>
+                      <a href="#rarity">Rarity</a>
                     </li>
                     <li className="hover:text-secondary flex  items-center gap-2">
                       <a href="#roadmap">Roadmap</a>
@@ -68,7 +68,7 @@ const Header = () => {
 
                   <li className="hover:text-secondary flex  items-center gap-2">
                     <span className="h-2 w-2 bg-secondary rounded-full"></span>{" "}
-                    <a href="#gallery">Gellery</a>
+                    <a href="#rarity">Rarity</a>
                   </li>
                   <li className="hover:text-secondary flex  items-center gap-2">
                     <span className="h-2 w-2 bg-secondary rounded-full"></span>{" "}
